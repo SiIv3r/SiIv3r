@@ -21,7 +21,7 @@ Your support is appreciated.
 ### Tools & Frameworks  
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=6A5ACD)  
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=6A5ACD)  
-<p align="right">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiIv3r&layout=compact&theme=dark&hide_border=true&background=000000&title_color=6A5ACD">
 </p>
 
