@@ -8,7 +8,8 @@
 - No specific goal, just exploring.
 
 For BTC donations : bc1qje465lpcs06ccmywj4fer76zhpz8rgav905jsg
- Your support is appreciated.
+
+Your support is appreciated.
 
 ---
 
