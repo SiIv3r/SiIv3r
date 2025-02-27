@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=6A5ACD&center=true&width=600&height=50&lines=Exploring+the+unknown;Building+in+the+void;Just+learning+and+experimenting">
 </p>
 
----
-
-## 🛰️ **About**
 - Just a student experimenting with code.  
 - Learning, testing, and improving.  
 - No specific goal, just exploring.
@@ -37,13 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiIv3r&layout=compact&theme=dark&hide_border=true&background=000000&title_color=6A5ACD">
 </p>
 
----
-<p align="center">
-  <img src="https://media.tenor.com/8lWWzVvcr1EAAAAC/silver-surfer-marvel.gif" width="400px">
-</p>
-
----
-
 ## 🩸 **Contribution Grid Animation**
 <p align="center">
   <img src="https://github.com/SiIv3r/SiIv3r/blob/output/github-contribution-grid-snake.svg">
@@ -53,4 +43,4 @@
 
 ## 📡 **Contact**
 🔹 **GitHub** ➤ [SiIv3r](https://github.com/SiIv3r)  
-🔹 **Twitter** ➤ [@your_handle](https://twitter.com/your_handle)  
+🔹 **Twitter** ➤ [@your_handle](https://x.com/_SiIv3r_)  
