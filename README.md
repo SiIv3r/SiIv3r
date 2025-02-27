@@ -27,14 +27,11 @@ Your support is appreciated.
 ### 🛡️ **Cybersecurity & Hacking Tools**
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=6A5ACD)  ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=6A5ACD)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=6A5ACD)  ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=6A5ACD)
-                                            ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=6A5ACD)
+  ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=6A5ACD)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiIv3r&layout=compact&theme=dark&hide_border=true&background=000000&title_color=6A5ACD">
-</p>
 
 ---
 
 ## Contact
-🔹 **GitHub** ➤ [SiIv3r](https://github.com/SiIv3r)  
-🔹 **Twitter** ➤ [@your_handle](https://x.com/_SiIv3r_)  
+🔹 **GitHub** ➤ [Silv3r](https://github.com/SiIv3r)  
+🔹 **Twitter** ➤ [@Silver](https://x.com/_SiIv3r_)  
