@@ -7,7 +7,10 @@
 - Learning, testing, and improving.  
 - No specific goal, just exploring.
 
-For BTC donations : bc1qje465lpcs06ccmywj4fer76zhpz8rgav905jsg
+For BTC donations : 
+```bash 
+bc1qje465lpcs06ccmywj4fer76zhpz8rgav905jsg
+```
 
 Your support is appreciated.
 
@@ -27,6 +30,6 @@ Your support is appreciated.
 
 ---
 
-## 📡 **Contact**
+## Contact
 🔹 **GitHub** ➤ [SiIv3r](https://github.com/SiIv3r)  
 🔹 **Twitter** ➤ [@your_handle](https://x.com/_SiIv3r_)  
