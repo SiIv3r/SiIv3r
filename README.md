@@ -7,9 +7,12 @@
 - Learning, testing, and improving.  
 - No specific goal, just exploring.
 
+# For BTC donations : bc1qje465lpcs06ccmywj4fer76zhpz8rgav905jsg
+
+# Your support is appreciated.
+
 ---
 
-## ⚙️ **Tech Stack**
 ### Languages  
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=6A5ACD)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=6A5ACD)  
@@ -18,25 +21,8 @@
 ### Tools & Frameworks  
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=6A5ACD)  
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=6A5ACD)  
-
----
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SiIv3r&show_icons=true&theme=dark&hide_border=true&icon_color=6A5ACD">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiIv3r&theme=dark&hide_border=true&background=000000&fire=6A5ACD">
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiIv3r&layout=compact&theme=dark&hide_border=true&background=000000&title_color=6A5ACD">
-</p>
-
-## 🩸 **Contribution Grid Animation**
-<p align="center">
-  <img src="https://github.com/SiIv3r/SiIv3r/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
